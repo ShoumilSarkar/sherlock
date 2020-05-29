@@ -545,12 +545,12 @@
     "username_claimed": "JennyKrafts",
     "username_unclaimed": "noonewouldeverusethis7"
   },
-  "Euw": {
+  "NA League": {
     "errorMsg": "This summoner is not registered at OP.GG. Please check spelling.",
     "errorType": "message",
     "rank": 291,
-    "url": "https://euw.op.gg/summoner/userName={}",
-    "urlMain": "https://euw.op.gg/",
+    "url": "https://na.op.gg/summoner/userName={}",
+    "urlMain": "https://na.op.gg/",
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
